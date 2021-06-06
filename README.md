@@ -1,2 +1,2 @@
 # Competitive-Coding-2021
- Solved with cpp,C, Python3.x
+Questions solved with cpp,C, Python3.x
