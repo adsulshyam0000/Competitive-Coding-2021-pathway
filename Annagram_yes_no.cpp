@@ -1,3 +1,20 @@
+//Problem Statement
+/*An anagram is a word phrase or name formed by arranging the letters of another word phrase or name.
+Write aa function to check if the given string are anagram or not , return yes if they are anagrams otherwise return No of they are not anagrams 
+
+
+I/p: First String
+I/p: Second String
+
+O/p: Yes if they are , No if not
+
+
+Example:
+i/p1: build
+i/p2: dubli
+o/p: Yes they are anagrams
+*/
+
 #include<iostream>
 #include<string>
 #include <bits/stdc++.h>
